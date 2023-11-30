@@ -6,7 +6,7 @@
 
     <h2>👨‍💻 Certification:</h2>
 
-  - [CISSP® - Certified Information Systems Security Professional](https://simpli-web.app.link/e/zM1Dk77sVDb)
+  - [CISSP® - Certified Information Systems Security Professiona Simple Learnl](https://simpli-web.app.link/e/zM1Dk77sVDb)
 
   - [Introduction to Cybersecurity](https://www.credly.com/badges/3c5414a4-e4db-4e9e-b74e-72357e9453ee/public_url)
 
