@@ -4,7 +4,7 @@
 
   - [Tenable-Nessus-Vulnerability-Management LAB](https://github.com/layemx/Tenable-Nessus-Vulnerability-Management-Lab/tree/main)
 
-  -  - [Tenable-Nessus-Vulnerability-Management LAB](https://github.com/layemx/Tenable-Nessus-Vulnerability-Management-Lab/tree/main)
+  - [Active Directory LAB](https://github.com/layemx/Tenable-Nessus-Vulnerability-Management-Lab/tree/main)
 
     <h2>👨‍💻 Certification:</h2>
 
