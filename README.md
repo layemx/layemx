@@ -22,15 +22,11 @@
 
     
 
-    
-
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
+ - [linkedin](www.linkedin.com/in/olayemijoel)
 
-[linkedin]: https://www.linkedin.com/in/olayemi-joel-mnse-coren-212a7964
 
 <!--
 **layemx/layemx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
