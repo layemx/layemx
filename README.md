@@ -8,6 +8,10 @@
 
     <h2>👨‍💻 Certification:</h2>
 
+    [CompTIA Security+ Certification](https://www.credly.com/badges/eb6f920c-ae58-43ff-a818-aad98a57c3bb/public_url)
+
+    [GRC Professional](https://www.credly.com/badges/6bc1d586-37ec-4166-9ab3-584384c4fd56)
+
   - [CISSP® - Certified Information Systems Security Professiona Simple Learnl](https://simpli-web.app.link/e/zM1Dk77sVDb)
 
   - [Introduction to Cybersecurity](https://www.credly.com/badges/3c5414a4-e4db-4e9e-b74e-72357e9453ee/public_url)
